@@ -1,7 +1,7 @@
 ### Olá 👋
 Estou,
 
-Graduando em Sistemas de Informação, pela <a href= "unimontes.br"> Universidade Estadual de Minas Gerais</a>
+Graduando em Sistemas de Informação, pela <a href= "unimontes.br"> Universidade Estadual de Montes Claros</a>
 
 Cursando o Técnico em Informática para Internet, pelo <a href= "www.ifnmg.edu.br/montesclaros">Instituto Federal do Norte de Minas Gerais</a>
 
