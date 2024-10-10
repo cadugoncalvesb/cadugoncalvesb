@@ -11,7 +11,6 @@
   ##
   
   <div align="center" style="display: flex; justify-content: center; gap: 1rem; margin-top: 1rem;">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=cadugoncalvesb&theme=dark&show_icons=true&hide_border=true&count_private=true" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadugoncalvesb&theme=dark&show_icons=true&hide_border=true&layout=compact" />
   </div>
 </div>
